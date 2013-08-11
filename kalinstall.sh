@@ -1,5 +1,10 @@
 #!/bin/bash
 
+##VMware Tools Kali Installation Script
+##Author: Jose R. Hernandez
+##Version: 0.1
+
+
 echo "Checking VMware Tools are Mounted..."
 
 #Check to see if VMwaretools is mounted
